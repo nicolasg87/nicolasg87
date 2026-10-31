@@ -33,4 +33,18 @@ Atualmente estou cursando Sistemas de Informação na Estácio com inclinação 
   width="30px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
+  <img 
+  align="left"
+  alt="Bash"
+  title="Bash"
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+  <img 
+  align="left"
+  alt="AWS"
+  title="AWS"
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" />
           
