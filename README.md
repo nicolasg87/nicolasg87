@@ -80,5 +80,5 @@ Atualmente estou cursando Sistemas de Informação na Estácio com inclinação 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=nicolasg87&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=nicolasg87&langs_count=9&theme=tokyonight" />
 </p>
