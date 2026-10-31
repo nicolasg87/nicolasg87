@@ -74,7 +74,7 @@ Atualmente estou cursando Sistemas de Informação na Estácio com inclinação 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-stats-extended.vercel.app/api?username=nicolasg87&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+    src="https://github-stats-extended.vercel.app/api?username=nicolasg87&custom_title=Minhas%20Estat%C3%ADsticas%20do%20Github&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br" />
 
   <img 
       align="left" 
